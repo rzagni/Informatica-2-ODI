@@ -1,3 +1,18 @@
+/**
+ * ProjectODI - This utility class manages the creation and configuration of an ODI (Oracle Data Integrator)
+ * project. It checks if a project already exists within the ODI instance and creates a new project if necessary.
+ * 
+ * <p>
+ * Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+ * You may use, modify, and share this code for non-commercial purposes, provided you give appropriate
+ * credit, indicate if changes were made, and distribute any modified work under the same license.
+ * </p>
+ *
+ * @author Renzo Zagni
+ * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ * @see <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>
+ */
+
 package odi.components;
 
 import odi.map.Project;
