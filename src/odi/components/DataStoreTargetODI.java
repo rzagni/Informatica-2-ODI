@@ -1,3 +1,19 @@
+/**
+ * DataStoreTargetODI - This utility class manages the creation and configuration of an ODI (Oracle Data Integrator)
+ * datastore for a specified target. It handles the mapping of target fields from an Informatica target object to 
+ * the ODI datastore, setting primary keys, data types, and column properties as defined in the target schema.
+ * 
+ * <p>
+ * Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+ * You may use, modify, and share this code for non-commercial purposes, provided you give appropriate
+ * credit, indicate if changes were made, and distribute any modified work under the same license.
+ * </p>
+ *
+ * @author Renzo Zagni
+ * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ * @see <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>
+ */
+
 package odi.components;
 
 import infa.map.Target;
