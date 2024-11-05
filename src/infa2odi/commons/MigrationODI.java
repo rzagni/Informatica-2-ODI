@@ -1,3 +1,23 @@
+/**
+ * MigrationODI - This utility class provides helper methods to support the migration of
+ * Informatica mappings into Oracle Data Integrator (ODI) structures, including creating
+ * and managing ODI models, projects, folders, mappings, and other components.
+ * 
+ * <p>
+ * Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+ * You may use, modify, and share this code for non-commercial purposes, provided you give appropriate
+ * credit, indicate if changes were made, and distribute any modified work under the same license.
+ * </p>
+ * 
+ * <p>
+ * License: <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+ * </p>
+ *
+ * @author Renzo Zagni
+ * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ * @see <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>
+ */
+
 package infa2odi.commons;
 
 import infa.map.Source;
