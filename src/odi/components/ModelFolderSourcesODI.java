@@ -1,3 +1,19 @@
+/**
+ * ModelFolderSourcesODI - This utility class manages the creation and configuration of an ODI (Oracle Data Integrator)
+ * source model within a specified folder. It maps information from an Informatica source object and a project 
+ * to an ODI model, setting the model name and code based on the source and project details.
+ * 
+ * <p>
+ * Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+ * You may use, modify, and share this code for non-commercial purposes, provided you give appropriate
+ * credit, indicate if changes were made, and distribute any modified work under the same license.
+ * </p>
+ *
+ * @author Renzo Zagni
+ * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ * @see <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>
+ */
+
 package odi.components;
 
 import infa.map.Source;
