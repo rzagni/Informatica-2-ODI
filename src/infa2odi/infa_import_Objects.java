@@ -1,5 +1,20 @@
-package infa2odi;
+/**
+ * infa_import_Objects - This class demonstrates the import of Informatica objects and mappings
+ * into Oracle Data Integrator (ODI) by establishing a connection, creating the necessary
+ * structure, and managing transactions. The code sets up ODI projects, models, topology,
+ * mappings, and various components based on Informatica mappings.
+ * 
+ * <p>
+ * License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+ * </p>
+ * 
+ *
+ * @author Renzo Zagni
+ * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ * @see <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>
+ */
 
+package infa2odi;
 
 import infa.map.InfMapping;
 import infa.map.Instance;
