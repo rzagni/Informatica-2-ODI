@@ -1,5 +1,21 @@
 package Demo;
-
+/**
+ * MyFirstSDKCode - Demonstrates the use of Oracle Data Integrator (ODI) SDK to fetch and display
+ * details of ODI Projects, Folders, Packages, Mappings, Procedures, Variables, Sequences, and User Functions.
+ * 
+ * <p>
+ * This program connects to an ODI instance, retrieves various components, and prints out their names.
+ * It is intended for educational and non-commercial use only.
+ * </p>
+ * 
+ * <p>
+ * License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+ * </p>
+ * 
+ * @author Renzo Zagni
+ * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ * @see <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>
+ */
 
 import java.util.Collection;
 import java.util.List;
@@ -31,7 +47,7 @@ import oracle.odi.domain.project.OdiVariable;
 import oracle.security.jps.az.internal.management.pd.PD;
 
 
-public class MyFirstSDKCode {
+public class TestDemo {
 
 	private static Object[] ODI_Projects;
 	private static OdiProject ODI_Project;
