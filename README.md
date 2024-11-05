@@ -44,7 +44,7 @@ Infa2ODI is a toolkit designed to facilitate the migration of Informatica PowerM
 5. Run `infa2odi_ui` to access the GUI and begin the migration process.
 
 ## License
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. See the full license details in [LICENSE](LICENSE).
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. See the full license details in [License.txt](License.txt).
 
 ## Author
 - **Renzo Zagni** - Primary developer and maintainer of Infa2ODI.
