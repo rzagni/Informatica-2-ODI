@@ -36,7 +36,7 @@ Infa2ODI is a toolkit designed to facilitate the migration of Informatica PowerM
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/infa2odi.git
+   git clone https://github.com/rzagni/infa2odi.git
    ```
 2. Open the project in your preferred Java IDE.
 3. Add the necessary ODI libraries and dependencies.
