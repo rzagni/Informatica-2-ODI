@@ -1,3 +1,19 @@
+/**
+ * Project - This class represents a project in ODI (Oracle Data Integrator) mapped from an Informatica PowerMart repository.
+ * It defines project-specific attributes such as name, code, database type, and folder, and provides methods for generating
+ * model names and codes for source and target models within the project.
+ * 
+ * <p>
+ * Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+ * You may use, modify, and share this code for non-commercial purposes, provided you give appropriate
+ * credit, indicate if changes were made, and distribute any modified work under the same license.
+ * </p>
+ *
+ * @author Renzo Zagni
+ * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ * @see <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>
+ */
+
 package odi.map;
 
 import infa.map.PowerMart;
