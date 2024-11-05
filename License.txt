@@ -1,0 +1,31 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+---
+
+## Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+### Terms
+**1. Attribution**
+You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+**2. NonCommercial**
+You may not use the material for commercial purposes. For any commercial use, contact the author for a separate licensing agreement.
+
+**3. ShareAlike**
+If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+---
+
+### Additional Terms for Code
+**4. Disclaimer of Warranties and Limitation of Liability**
+This code is provided "as-is," without warranties of any kind. The author is not liable for any damages arising from its use.
+
+---
+
+Author: Renzo Zagni
+Date: 01-Dec-2015
+
+For any questions or inquiries about alternate licensing, please contact: renzo.zagni@gmail.com
