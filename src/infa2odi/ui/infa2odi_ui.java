@@ -1,7 +1,20 @@
+/**
+ * infa2odi_ui - This class provides a user interface for connecting to Oracle Data Integrator (ODI),
+ * logging in, and selecting files to be parsed for migration. It includes UI elements for user 
+ * authentication, file selection, and schema selection for source and target mappings.
+ * 
+ * <p>
+ * Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+ * You may use, modify, and share this code for non-commercial purposes, provided you give appropriate
+ * credit, indicate if changes were made, and distribute any modified work under the same license.
+ * </p>
+ *
+ * @author Renzo Zagni
+ * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+ * @see <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>
+ */
+
 package infa2odi.ui;
-
-
-
 
 import java.awt.Choice;
 import java.awt.EventQueue;
